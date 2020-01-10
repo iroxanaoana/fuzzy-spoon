@@ -7,3 +7,4 @@ In this course, I will learn how to use GitHub successfully
 - Basic commands
 - Special files
 - Workflow
+- Locally Changed
