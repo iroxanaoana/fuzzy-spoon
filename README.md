@@ -8,3 +8,6 @@ In this course, I will learn how to use GitHub successfully
 - Special files
 - Workflow
 - Locally Changed
+- Sample1
+- Sample2
+- Sample3
